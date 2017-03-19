@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+#definindo a versao do ruby
+#ruby '2.1.1'
+
+#add gem device para login do usuario
+gem 'devise', '~> 4.2.1' 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.1'
